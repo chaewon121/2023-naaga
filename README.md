@@ -17,3 +17,6 @@
 
 ## 백엔드 기술 스택
 ![제목](etc/images/backend_stack.png)
+
+## 인프라 아키텍쳐
+![제목](etc/images/infra_architectures.png)
