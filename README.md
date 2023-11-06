@@ -16,4 +16,4 @@
 ![상세 페이지](etc/images/service%20intro.png)
 
 ## 백엔드 기술 스택
-![제목](etc/images/bacekend_stack.png)
+![제목](etc/images/backend_stack.png)
