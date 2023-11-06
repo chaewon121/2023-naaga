@@ -1,5 +1,4 @@
-![제목](etc/images/header.png)
-
+<a href="https://sites.google.com/woowahan.com/woowacourse-demo-5th/%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8/%EB%82%98%EC%95%84%EA%B0%80"><img src="etc/images/header.png"/></a>
 ## 💌 나아가로부터의 초대장이 도착했습니다
 
 반복되는 인스타 피드를 보고, 게임을 하며 보내는 일상이 지루하지 않으시나요?
