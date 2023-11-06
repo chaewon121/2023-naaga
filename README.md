@@ -20,3 +20,6 @@
 
 ## 인프라 아키텍쳐
 ![제목](etc/images/infra_architectures.png)
+
+## CI/CD
+![제목](etc/images/CI_CD.png)
